@@ -1,6 +1,6 @@
 {
   "name": "lie-lfold",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "fold all of the lies",
   "main": "lib/lfold.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/calvinmetcalf/lfold-all.git"
+    "url": "git://github.com/calvinmetcalf/lie-lfold.git"
   },
   "keywords": [
     "lie",
@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calvinmetcalf/lfold-all/issues"
+    "url": "https://github.com/calvinmetcalf/lie-lfold/issues"
   },
   "devDependencies": {
     "mocha-as-promised": "~1.4.0",
