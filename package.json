@@ -1,6 +1,6 @@
 {
   "name": "lie-lfold",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "fold all of the lies",
   "main": "lib/lfold.js",
   "scripts": {
